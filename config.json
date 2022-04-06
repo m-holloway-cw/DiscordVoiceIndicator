@@ -1,0 +1,10 @@
+{ "config":
+	{
+	"username": "USERNAME#1234",
+	"token" : "DISCORD TOKEN",
+	"liveColor" : "green",
+	"liveText" : "MIC IS HOT",
+	"muteColor" : "red",
+	"muteText" : "MUTED"
+	}
+}
